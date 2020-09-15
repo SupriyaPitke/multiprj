@@ -4,8 +4,31 @@
   <Header>
     <Version val="14070.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="6"/>
     <LastIsnFolder val="0"/>
   </Header>
+
+  <RightsRepository>
+    <Rights>
+      <Right id="67108865" name="1">
+        <PublicRight val="Y"/>
+      </Right>
+      <Right id="67108866" name="2">
+        <PublicRight val="Y"/>
+      </Right>
+      <Right id="67108867" name="3">
+        <PublicRight val="Y"/>
+      </Right>
+      <Right id="67108868" name="4">
+        <PublicRight val="Y"/>
+      </Right>
+      <Right id="67108869" name="5">
+        <PublicRight val="Y"/>
+      </Right>
+      <Right id="67108870" name="7">
+        <PublicRight val="Y"/>
+      </Right>
+    </Rights>
+  </RightsRepository>
 
 </Application>
